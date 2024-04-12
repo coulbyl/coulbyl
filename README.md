@@ -8,7 +8,7 @@
 - 👀 I’m interested in code and design patterns
 - 🌱 I’m currently learning python and git
 - 💞️ I’m looking to collaborate on any interesting open source project
-- 🥅 2021 Goals: Upgrade my skills and become a modern full stack developer
+- 🥅 Goals: Upgrade my skills and become a modern full stack developer
 - ⚡ Fun fact: I like to tinker, play games and watch manga
 
 ### Connect with me
